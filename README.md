@@ -7,9 +7,9 @@
 
 - 📬 You can mail me at the id [ragav7775@gmail.com](ragav7775@gmail.com)
 
+- 🔗 I am also in LinkedIn [https://www.linkedin.com/in](https://www.linkedin.com/in/Ragavan-B-developer/)
+  
 - 🌱 I’m currently learning **Full-Stack Cloud Computing & Architecture**
-
-- 🔗 I am also in LinkedIn [https://www.linkedin.com/in/Ragavan-B-developer/](https://www.linkedin.com/in/Ragavan-B-developer/)
 
 - 💬 Ask me about **React, Node.JS, Express.JS**
 
